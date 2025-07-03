@@ -1,0 +1,14 @@
+{
+  "tamano_imagen": 224,
+  "numero_clases": 5,
+  "clases": [
+    "Ayrshire cattle",
+    "Brown Swiss cattle",
+    "Holstein Friesian cattle",
+    "Jersey cattle",
+    "Red Dane cattle"
+  ],
+  "precision_final": 0.8440860509872437,
+  "arquitectura": "MobileNetV2",
+  "version_keras": "2.18.0"
+}
